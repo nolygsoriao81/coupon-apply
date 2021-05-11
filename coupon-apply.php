@@ -3,7 +3,7 @@
 Plugin Name: Coupon apply
 Description: This plugin is main apply promocode of woocommere.
 Version: 0.0.1
-Author: Gene
+Author: Noly
 */
 define("COUP_PLUGIN_PATH", plugin_dir_path( __FILE__ ) );
 define("COUP_PLUGIN_NAME", plugin_basename( __FILE__ ));
